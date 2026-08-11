@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Netflix Dashboard](screenshots/netflix_dashboard.png)
+(screenshots/netflix_dashboard.png)
 
 # 🎬 Netflix Content Analytics & Business Intelligence Dashboard
 
